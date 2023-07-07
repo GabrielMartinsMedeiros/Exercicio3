@@ -1,2 +1,2 @@
-# Exercicio3
+# Exercicios
 Exercicio com calculos
